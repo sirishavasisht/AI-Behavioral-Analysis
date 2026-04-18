@@ -2,7 +2,7 @@
 
 A data science project that analyzes AI-related news headlines to uncover sentiment trends, behavioral influence patterns, and topic clusters across thousands of media sources.
 
---
+---
 
 ## What This Project Does
 
